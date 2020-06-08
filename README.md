@@ -1,7 +1,7 @@
 
-TKU多媒體概論專用除濕機
+# TKU多媒體概論專用除濕機
 
-型號：TKU-C8763
+# 型號：TKU-C8763
 
 <!--插入dehumid.jpg-->
 dehumid.jpg 
