@@ -2,9 +2,7 @@
 # TKU多媒體概論專用除濕機
 
 # 型號：TKU-C8763
-
-<!--插入dehumid.jpg-->
-dehumid.jpg 
+![dehumid-image](https://ibb.co/7yGRTBX)
 
 <!--學號姓名請記得改成自己的--->
 產品說明書 製作者：4xxxxxxxx 名字
