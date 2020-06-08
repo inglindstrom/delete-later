@@ -1,6 +1,6 @@
 # Header 1 Teaching Assistant Assignment 3
 ___
-##自我介紹 
+## 自我介紹 
 我是 *Ingrid*  林映婷，**<喜歡>** 蘋果。
 
 [Tku homepage](http://www.tku.edu.tw/)
